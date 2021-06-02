@@ -1,0 +1,9 @@
+Built Logistic Regression and XGBoost Models that are 4x more likely to categorize high risk pulmonary patients and reduce patient ER visit and admit rates.
+• Engineered new medical and external features that increased model C-stat and accuracy by over 35%.
+• Built an automation framework that utilizes Flask and Jinja Templating to deploy models on Pivotal Cloud Foundry (PCF)
+
+Hey Akash,
+I recently got a mail from Cigna asking me to interview for the data science intern-Express Scripts position.
+I came across your profile and wanted to know of your experience at Cigna and would really appreciate it if you could tell me a bit about the interview process and the kind of topics you recommend I should read up on.
+Thanks a lot for your time, 
+Shaunak Prabhu
